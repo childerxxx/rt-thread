@@ -13,7 +13,7 @@
  */
 
 /**
- * @addtogroup cortex-m4
+ * @addtogroup cortex-m7
  */
 /*@{*/
 
